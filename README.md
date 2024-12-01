@@ -23,3 +23,7 @@ The database will include:
 3. **Database Implementation:** Build the database according to the planned schema and populate it with sample data.
 4. **Access and Queries:** Develop methods for easy data access and querying.
 5. **Data Retrieval Tools:** Implement tools for effective data extraction and reporting.
+
+
+## ER Diagram
+![DB-ER](https://github.com/user-attachments/assets/5fed86f0-0c52-46ed-ad4b-600d24a60f1e)

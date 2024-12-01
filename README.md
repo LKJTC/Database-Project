@@ -27,3 +27,7 @@ The database will include:
 
 ## ER Diagram
 ![DB-ER](https://github.com/user-attachments/assets/5fed86f0-0c52-46ed-ad4b-600d24a60f1e)
+
+
+## Sitemap
+![Sitemap](https://github.com/LKJTC/Database-Project/blob/main/Sitemap.png)

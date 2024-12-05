@@ -34,3 +34,6 @@ The database will include:
 
 ## UI Prototype
 - https://www.figma.com/proto/xS1I1QnyiKmYwVEhCBSckm/School-Management-System-(Community)?node-id=4-2&t=KDtaghz6VbouULOE-1
+
+## Presentation
+- https://www.canva.com/design/DAGYbjg4zVU/nhxXXFqWFi-BXJtI5yggQg/edit?utm_content=DAGYbjg4zVU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton

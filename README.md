@@ -34,4 +34,3 @@ The database will include:
 
 ## UI Prototype
 - https://www.figma.com/proto/xS1I1QnyiKmYwVEhCBSckm/School-Management-System-(Community)?node-id=4-2&t=KDtaghz6VbouULOE-1
-![Sitemap](https://www.figma.com/proto/xS1I1QnyiKmYwVEhCBSckm/School-Management-System-(Community)?node-id=4-2&t=KDtaghz6VbouULOE-1)

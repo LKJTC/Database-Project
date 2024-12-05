@@ -31,3 +31,7 @@ The database will include:
 
 ## Sitemap
 ![Sitemap](https://github.com/LKJTC/Database-Project/blob/main/Sitemap.png)
+
+## UI Prototype
+- https://www.figma.com/proto/xS1I1QnyiKmYwVEhCBSckm/School-Management-System-(Community)?node-id=4-2&t=KDtaghz6VbouULOE-1
+![Sitemap](https://www.figma.com/proto/xS1I1QnyiKmYwVEhCBSckm/School-Management-System-(Community)?node-id=4-2&t=KDtaghz6VbouULOE-1)
